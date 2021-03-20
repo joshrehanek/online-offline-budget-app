@@ -1,0 +1,27 @@
+{
+  "name": "online-offline-budget-app",
+  "version": "1.0.0",
+  "description": "The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshrehanek/online-offline-budget-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshrehanek/online-offline-budget-app/issues"
+  },
+  "homepage": "https://github.com/joshrehanek/online-offline-budget-app#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "lite-server": "^2.5.3",
+    "mongoose": "^5.5.15",
+    "morgan": "^1.9.1"
+  }
+}
