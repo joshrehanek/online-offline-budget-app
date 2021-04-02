@@ -37,7 +37,7 @@ When brought back online:
 - [npm](https://www.npmjs.com/)
 - [mongoose](https://mongoosejs.com/docs/)
 - [express](https://expressjs.com/)
-- [morgan] (https://www.npmjs.com/package/morgan)
+- [morgan](https://www.npmjs.com/package/morgan)
 - [compression](https://www.npmjs.com/package/compression)
 - [lite-server](https://www.npmjs.com/package/lite-server)
 
